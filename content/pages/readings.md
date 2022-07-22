@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section contains a list of readings for each weekly session of
+  the course. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 355f1c08-c53e-f4ea-d8b7-f6d6bd75878b
 ---
@@ -40,7 +45,7 @@ Susskind, Lawrence. _Environmental Diplomacy_. Oxford University Press, 1996. IS
 
 Porter, Gareth, Janet Welsh Brown, and Pamela S. Chasek. Chapters 1-4 in _Global Environmental Politics_. Boulder, CO: Westview Press, 2000. ISBN: 9780813321813.
 
-Kousky, Carolyn, Olga Rostapshova, Mike Toman, and Richard Zeckhauser. "Responding to Threats of Climate Change Mega-Catastrophes." Washington, DC: Resources for the Future, October, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://dash.harvard.edu/bitstream/handle/1/4454155/Kousky_RespondingThreats.pdf?sequence=1))
+Kousky, Carolyn, Olga Rostapshova, Mike Toman, and Richard Zeckhauser. "Responding to Threats of Climate Change Mega-Catastrophes." Washington, DC: Resources for the Future, October, 2009. ([PDF](https://dash.harvard.edu/bitstream/handle/1/4454155/Kousky_RespondingThreats.pdf?sequence=1))
 
 
 {{< tdclose >}}

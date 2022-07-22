@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section outlines due dates and descriptions for the assignments
+  of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f5955bc4-2a05-223e-bcde-082a94c35a13
 ---
@@ -9,7 +14,7 @@ The following outlines due dates and descriptions for the assignments.
 Weeks 2, 4, and 6: Response Papers
 ----------------------------------
 
-Students will write a short memorandum (i.e., no more than three typed pages) commenting on the assigned [readings]({{< baseurl >}}/pages/readings) for the week. Each of these response papers is worth a maximum of 10 points toward the final grade.
+Students will write a short memorandum (i.e., no more than three typed pages) commenting on the assigned {{% resource_link 355f1c08-c53e-f4ea-d8b7-f6d6bd75878b "readings" %}} for the week. Each of these response papers is worth a maximum of 10 points toward the final grade.
 
 Weeks 5 & 6: Simulation Activity: The Chlorine Game
 ---------------------------------------------------
