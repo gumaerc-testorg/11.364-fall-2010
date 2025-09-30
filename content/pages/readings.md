@@ -27,7 +27,7 @@ Susskind, Lawrence. *Environmental Diplomacy*. Oxford University Press, 1996. IS
 
 Porter, Gareth, Janet Welsh Brown, and Pamela S. Chasek. Chapters 1-4 in *Global Environmental Politics*. Boulder, CO: Westview Press, 2000. ISBN: 9780813321813.
 
-Kousky, Carolyn, Olga Rostapshova, Mike Toman, and Richard Zeckhauser. "Responding to Threats of Climate Change Mega-Catastrophes." Washington, DC: Resources for the Future, October, 2009. ([PDF](https://dash.harvard.edu/bitstream/handle/1/4454155/Kousky_RespondingThreats.pdf?sequence=1))
+Kousky, Carolyn, Olga Rostapshova, Mike Toman, and Richard Zeckhauser. "Responding to Threats of Climate Change Mega-Catastrophes." Washington, DC: Resources for the Future, October, 2009. ({{% resource_link "b3b2f4bf-d294-4dd8-915f-d3c4e5b1c567" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -41,7 +41,7 @@ Prins, and Rayner. "Time to Ditch Kyoto." *Nature* 449 (October 25, 2007): 973-9
 
 Najam, Adil. "Dynamics of the Southern Collective." *Global Environmental Politics* 4, no. 3 (2004).
 
-Schreurs, M. "[International Environmental Negotiations, the State, and Environmental NGOs in Japan](http://www.gdrc.org/ngo/jp-envi-ngo.html)." The Global Development Research Center, 1996.
+Schreurs, M. "{{% resource_link "a08304e9-c691-4a8e-a494-52bd737e273b" "International Environmental Negotiations, the State, and Environmental NGOs in Japan" %}}." The Global Development Research Center, 1996.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -61,17 +61,17 @@ The science: What role for science and scientists? (Moomaw)
 
 Moomaw, William. *The History of Climate Change and Climate Science*. The Fletcher School of Law and Diplomacy, Tufts University.
 
-Intergovernmental Panel on Climate Change. [*IPCC Fourth Assessment Report*](https://www.ipcc.ch/assessment-report/ar4/).
+Intergovernmental Panel on Climate Change. {{% resource_link "8d7df785-eb8e-4812-81ad-d984f2880d49" "*IPCC Fourth Assessment Report*" %}}.
 
-InterAcademy Council. "[InterAcademy Council Report Recommends Fundamental Reform of IPCC Management Structure](https://www.interacademies.org/news/interacademy-council-report-recommends-fundamental-reform-ipcc-management-structure)." *Review of the IPCC, 2010*.
+InterAcademy Council. "{{% resource_link "349e709e-2d77-4130-996c-d140f949f5cf" "InterAcademy Council Report Recommends Fundamental Reform of IPCC Management Structure" %}}." *Review of the IPCC, 2010*.
 
-[Climategate](http://www.climategate.com/).
+{{% resource_link "7841639d-24bf-425a-aa76-9e0a74390618" "Climategate" %}}.
 
-Dozier, K. "'[Climate Gate' Casts Cloud on Change Meeting](https://www.cbsnews.com/news/climate-gate-casts-cloud-on-change-meet/)." *CBS News*, 2009.
+Dozier, K. "'{{% resource_link "2b9ed27a-fe4d-4f8d-b7a6-68e47f30c63a" "Climate Gate' Casts Cloud on Change Meeting" %}}." *CBS News*, 2009.
 
-Lambert, Tim. "[Climate Scientists Vindicated Yet Again](http://scienceblogs.com/deltoid/2010/07/07/climate-scientists-vindicated/)." *ScienceBlogs*, 2010.
+Lambert, Tim. "{{% resource_link "44dc43ea-8cc0-4f58-9f30-b10ca4c174f5" "Climate Scientists Vindicated Yet Again" %}}." *ScienceBlogs*, 2010.
 
-Adam, D."'[Climategate' Review Clears Scientists of Dishonesty Over Data](http://www.guardian.co.uk/environment/2010/jul/07/climategate-review-clears-scientists-dishonesty)." *Guardian News and Media*, 2010.
+Adam, D."'{{% resource_link "79868a1b-83f0-4033-823c-3d2fea242c8f" "Climategate' Review Clears Scientists of Dishonesty Over Data" %}}." *Guardian News and Media*, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -89,15 +89,15 @@ Discussion of chlorine treaty simulation results (Susskind & Moomaw)
 
 {{< tdclose >}}{{< tdopen >}}
 
-[United Nations Framework Convention on Climate Change](http://unfccc.int/2860.php).
+{{% resource_link "7bf22b6f-9f44-4a66-8e9e-44fca68172ae" "United Nations Framework Convention on Climate Change" %}}.
 
-[Text of the UNFCC Convention](http://unfccc.int/essential_background/convention/background/items/2853.php). United Nations Framework Convention on Climate Change.
+{{% resource_link "50792508-bcf1-4440-947e-cd51c0c0ada4" "Text of the UNFCC Convention" %}}. United Nations Framework Convention on Climate Change.
 
-[Kyoto Protocol of the UNFCC](http://unfccc.int/essential_background/kyoto_protocol/items/1678.php). United Nations Framework Convention on Climate Change.
+{{% resource_link "341357f9-2840-44f6-9aeb-ad3b0c083d09" "Kyoto Protocol of the UNFCC" %}}. United Nations Framework Convention on Climate Change.
 
-[The "Rio Conventions"- Climate Change, Biodiversity, and Desertification](http://unfccc.int/essential_background/convention/items/6036.php). United Nations Framework Convention on Climate Change.
+{{% resource_link "c31978fe-800b-4032-9293-8f4a1726b9a0" "The \"Rio Conventions\"- Climate Change, Biodiversity, and Desertification" %}}. United Nations Framework Convention on Climate Change.
 
-[Earth Negotiations Bulletin](https://enb.iisd.org/enb/).
+{{% resource_link "9adc46b5-ad98-4ba4-be93-54311277a118" "Earth Negotiations Bulletin" %}}.
 
 Moomaw, W., K. Ramakrishna, K. Gallagher, and T. Freid. "The Kyoto Protocol: A Blueprint for Sustainable Development." *Journal of Environment and Development* 26 (1999): 159-166.
 
@@ -109,7 +109,7 @@ Copenhagen evaluations - short student presentations (Susskind & Moomaw)
 
 Dubash, N. K. "Copenhagen: Climate of Mistrust." *Economic and Political Weekly (EPW)* 54, no. 52 (December 2009): 8-1
 
-"[Report: The Copenhagen Accord: A Stepping Stone?](http://wwf.panda.org/?188021/Report-The-Copenhagen-Accord-A-Stepping-Stone)" World Wildlife Fund.
+"{{% resource_link "c6920f38-dce4-4c07-9665-658b72d6a024" "Report: The Copenhagen Accord: A Stepping Stone?" %}}" World Wildlife Fund.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -123,9 +123,9 @@ No readings
 Status of the Cancun round of negotiations (Moomaw)
 {{< tdclose >}}{{< tdopen >}}
 
-"Joint Statement Issued at the Conclusion of the Fifth BASIC Ministerial Meeting on Climate Change." [Ministry of Environment and Forests, Climate Change Division, Government of India](https://unfccc.int/sites/default/files/resource/BASIC-25-Statement-as-adopted-13-Nov-2017.pdf).
+"Joint Statement Issued at the Conclusion of the Fifth BASIC Ministerial Meeting on Climate Change." {{% resource_link "29d9b4b1-57f7-4246-8414-91d350cef54c" "Ministry of Environment and Forests, Climate Change Division, Government of India" %}}.
 
-[United Nations Climate Change Conference Web site](http://unfccc.int/2860.php).
+{{% resource_link "7bf22b6f-9f44-4a66-8e9e-44fca68172ae" "United Nations Climate Change Conference Web site" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Student Presentations -- outlines**
@@ -171,7 +171,7 @@ No readings
 
 ## Optional Readings
 
-[The Multilaterals Project](https://wayback.archive-it.org/1646/20091102204220/http:/fletcher.tufts.edu/multilaterals/). The Fletcher School, Tufts University.
+{{% resource_link "c7fdcc65-e279-4cfc-8bbc-c9c291e7f726" "The Multilaterals Project" %}}. The Fletcher School, Tufts University.
 
 Barrett, Scott. *Environment and Statecraft*. Oxford University Press, 2006. ISBN: 9780199286096.
 
@@ -179,7 +179,7 @@ Speth, James Gustave, and Peter M. Haas. *Global Environmental Governance*. Isla
 
 Wapner, Paul. *Environmental Activism and World Civic Politics*. State University of New York Press, 1996. ISBN: 9780791427903.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262740234) Young, Oran, ed. *The Effectiveness of International Environmental Regimes*. MIT Press, 1999. ISBN: 9780262740234.
+{{% resource_link "7b43c30a-7631-4eba-b4b4-745fa6d4b948" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Young, Oran, ed. *The Effectiveness of International Environmental Regimes*. MIT Press, 1999. ISBN: 9780262740234.
 
 ## Supplemental Readings
 
